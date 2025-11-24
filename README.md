@@ -1,0 +1,2 @@
+# Pelanggaran-Sisw-App-Web
+MADE WITH LARAVEL 12 AND TAILWIND
