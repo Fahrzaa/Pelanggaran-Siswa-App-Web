@@ -9,9 +9,7 @@ Dibangun untuk membantu guru, wali kelas, dan pihak sekolah dalam menjaga kedisi
 - **Manajemen Data Siswa**: Tambah, edit, dan hapus data siswa.
 - **Pencatatan Pelanggaran**: Input jenis pelanggaran dengan kategori dan tingkat keseriusan.
 - **Dashboard Statistik**: Grafik dan tabel untuk memantau tren pelanggaran.
-- **Laporan Otomatis**: Cetak laporan pelanggaran per siswa atau per kelas.
 - **Autentikasi Pengguna**: Login untuk admin, guru, dan wali kelas.
-- **Responsive Design**: Bisa diakses dari desktop maupun mobile.
 
 ---
 
